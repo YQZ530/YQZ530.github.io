@@ -44,3 +44,12 @@ volume = {39},
 number = {4},
 year={2020}
 }
+
+@article{workspace,
+    author = {Yongqi Zhang and Haikun Huang and Erion Plaku and Lap-Fai Yu},
+    title = {Joint Computational Design of Workspaces and Workplans}, 
+    journal = {ACM Transactions on Graphics},
+    volume = {40},
+    number = {6},
+    year = {2021}
+}
