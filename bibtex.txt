@@ -1,3 +1,27 @@
+@inproceedings{zhang2024mixed,
+  title={Mixed-Integer Programming for Adaptive VR Workflow Training},
+  author={Zhang, Yongqi and Yan, Chuan and Huang, Haikun and Su, Simon and Yu, Lap-Fai},
+  booktitle={International Conference on Human-Computer Interaction},
+  pages={325--344},
+  year={2024},
+  organization={Springer}
+}
+@inproceedings{zhang2023posevec,
+  title={PoseVEC: Authoring Adaptive Pose-aware Effects using Visual Programming and Demonstrations},
+  author={Zhang, Yongqi and Nguyen, Cuong and Kazi, Rubaiat Habib and Yu, Lap-Fai},
+  booktitle={Proceedings of the 36th Annual ACM Symposium on User Interface Software and Technology},
+  pages={1--15},
+  year={2023}
+}
+
+@article{workspace,
+    author = {Yongqi Zhang and Haikun Huang and Erion Plaku and Lap-Fai Yu},
+    title = {Joint Computational Design of Workspaces and Workplans}, 
+    journal = {ACM Transactions on Graphics},
+    volume = {40},
+    number = {6},
+    year = {2021}
+}
 
 @ARTICLE{VRReview2021,
 AUTHOR={Xie, Biao and Liu, Huimin and Alghofaili, Rawan and Zhang, Yongqi and Jiang, Yeling and Lobo, Flavio Destri and Li, Changyang and Li, Wanwan and Huang, Haikun and Akdere, Mesut and Mousas, Christos and Yu, Lap-Fai},   
@@ -45,11 +69,3 @@ number = {4},
 year={2020}
 }
 
-@article{workspace,
-    author = {Yongqi Zhang and Haikun Huang and Erion Plaku and Lap-Fai Yu},
-    title = {Joint Computational Design of Workspaces and Workplans}, 
-    journal = {ACM Transactions on Graphics},
-    volume = {40},
-    number = {6},
-    year = {2021}
-}
