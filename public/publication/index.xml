@@ -57,6 +57,58 @@ Supplementary notes can be added here, including [code, math, and images](https:
 </description>
     </item>
     
+
+    <item>
+      <title>HieraVisVR: Hierarchical Visual Analytics for Motion-Centric VR Playtesting</title>
+      <link>http://localhost:1313/publications/conference-paper/</link>
+      <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/conference-paper/</guid>
+      <description>&lt;!-- &gt; [!NOTE]
+&gt; Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+
+&gt; [!NOTE]
+&gt; Create your slides in Markdown - click the _Slides_ button to check out the example. --&gt;
+&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including 
+.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>HieraVisVR: Hierarchical Visual Analytics for Motion-Centric VR Playtesting</title>
+      <link>http://localhost:1313/publications/vrtest/</link>
+      <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/vrtest/</guid>
+      <description>&lt;div class=&#34;grid grid-cols-1 md:grid-cols-[200px_auto] gap-4 my-6&#34;&gt;
+  &lt;div class=&#34;font-bold text-2xl&#34;&gt;Acknowledgement&lt;/div&gt;
+  &lt;div&gt;We are grateful to the anonymous reviewers for their constructive comments. This project was supported by the National Science Foundation (award numbers: 2430673, 2418236, and 1942531). LapFai Yu is supported by the GMU’s IDIA P3 Faculty Fellowship on this project.&lt;/div&gt;
+&lt;/div&gt;
+---
+&lt;!-- 
+&gt; [!NOTE]
+&gt; Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software. --&gt;
+&lt;!-- &gt; [!NOTE]
+&gt; Create your slides in Markdown - click the _Slides_ button to check out the example. --&gt;
+&lt;!-- Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     <item>
       <title>Exercise Intensity-driven Level Design</title>
       <link>https://YQZ530.github.io/public/publication/level1/</link>
